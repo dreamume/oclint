@@ -1,0 +1,3 @@
+
+BUILD_TEST(initMethodReturnTypeRuleTest
+initMethodReturnTypeRuleTest.cpp)
